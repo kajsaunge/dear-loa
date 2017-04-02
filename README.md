@@ -1,7 +1,7 @@
 # README #
 
 ### What ###
-When it grabs your true attention - stop. Bring it with you and revisit that often.
+A love letter to my son
 
 ### How ###
 * npm install
