@@ -1,7 +1,7 @@
 {
-  "name": "match-the-letters",
+  "name": "dear-loa",
   "version": "1.0.0",
-  "description": "### What ### Teach those kids Aa Bb Cc",
+  "description": "A love letter to my son",
   "main": "index.js",
   "dependencies": {
   "node-sass": "^4.5.0",

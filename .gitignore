@@ -3,6 +3,7 @@ node_modules/
 public/
 .env
 .vscode
+.editorconfig
 .DS_Store
 .tmp*
 *.orig
