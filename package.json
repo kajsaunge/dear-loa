@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kajsaunge/match-the-letters.git"
+    "url": "git+https://github.com/kajsaunge/dear-loa.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kajsaunge/match-the-letters/issues"
+    "url": "https://github.com/kajsaunge/dear-loa/issues"
   },
-  "homepage": "https://github.com/kajsaunge/match-the-letters#readme"
+  "homepage": "https://github.com/kajsaunge/dear-loa#readme"
 }
